@@ -6,8 +6,7 @@
 #### 6
 #### 7 how are you
 #### 8
-#### 9 github is really good
-#### 10
+#### 9 Github is really awesome
 #### 11
 #### 12
 #### 13
